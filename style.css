@@ -510,7 +510,7 @@ figure:hover img {
     display: flex;
     justify-content: space-between;
     position: relative;
-    padding: 50px 50px;
+    padding: 50px 100px;
   }
 
   .nav-list {
